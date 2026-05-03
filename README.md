@@ -27,8 +27,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -43,18 +41,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Data Science & ML
+### Data Science & Visualization
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-026E00?style=for-the-badge&logo=apache&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### AI / Integrations
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -139,12 +132,32 @@ Proyecto de forecasting de ventas con múltiples modelos: **SARIMA, Prophet, Lig
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [fsaudit](https://github.com/nahuel893/fsaudit)
+<sub>**Filesystem audit tool**</sub>
+
+Herramienta CLI que **escanea, clasifica y analiza** árboles de directorios y genera reportes Excel multi-hoja con KPIs. Trabaja **solo con metadata** (nunca lee contenidos), read-only por diseño, **cross-platform** (Linux + Windows). Detecta archivos huérfanos, duplicados, inactivos.
+
+`Python 3.10+` `OpenPyXL` `Pandas` `pytest` `pip-installable`
+
+</td>
+<td width="50%" valign="top">
+
+### [excel-reporter](https://github.com/nahuel893/excel-reporter)
+<sub>**Modular Excel report engine**</sub>
+
+Sistema modular para **generación automatizada de reportes Excel** desde Data Warehouse PostgreSQL. Arquitectura limpia con **Repository Pattern**, capa de servicios desacoplada y testing con **mocks de DB**. Diseñado para soportar múltiples reportes con mínimo código nuevo.
+
+`Python 3.12+` `SQLAlchemy` `Pandas` `OpenPyXL` `pytest`
+
+</td>
+</tr>
 </table>
 
 ### Honorable mentions
 
-- **[excel-reporter](https://github.com/nahuel893/excel-reporter)** — Sistema modular de reportes Excel desde Data Warehouse PostgreSQL. Repository pattern, clean architecture.
-- **[fsaudit](https://github.com/nahuel893/fsaudit)** — Filesystem audit tool. Read-only, multi-sheet Excel reports, cross-platform (Linux/Windows).
 - **[steam-skins-scraper](https://github.com/nahuel893/steam-skins-scraper)** — Production-grade scraper con Circuit Breaker, Rate Limiting (sliding window) y Connection Pooling.
 - **[dotfiles](https://github.com/nahuel893/dotfiles)** — Setup de Hyprland + Matugen dynamic theming + AstroNvim.
 
