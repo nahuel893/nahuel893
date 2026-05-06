@@ -67,6 +67,20 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### medallion-etl &nbsp;<sub>🔒 **Private — Production**</sub>
+<sub>**Production ETL · Medallion Architecture (Bronze → Silver → Gold)**</sub>
+
+Pipeline ETL en **producción** para empresa de bebidas. Implementa **Medallion Architecture** completa extrayendo datos desde Chess ERP hacia un Data Warehouse PostgreSQL: capa **Bronze** (raw), **Silver** (limpio y normalizado) y **Gold** (modelo dimensional star schema para BI). Orchestrator unificado, carga diaria automatizada vía cron, **9+ loaders especializados** (sales, stock, clientes, staff, depósitos, etc.), migraciones con **dbmate**, configuración con **Pydantic Settings** y logging estructurado. Alimenta a `sales-dashboard` y `sellers-mobile-dash`.
+
+Production-grade ETL pipeline for a beverage distribution company. Full **Medallion Architecture** ingesting Chess ERP into a PostgreSQL Data Warehouse, with dimensional star schema, scheduled daily loads, dbmate migrations and 9+ domain-specific loaders. Closed-source by design.
+
+`Python` `SQLAlchemy` `Pydantic` `PostgreSQL` `Pandas` `dbmate` `cron`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [chesserp-py-sdk](https://github.com/nahuel893/chesserp-py-sdk)
