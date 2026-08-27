@@ -15,7 +15,7 @@
 
 ## Sobre mí · About me
 
-**ES** — Desarrollador Python con foco en **backend** y **data engineering**. Vengo de **3 años como analista de datos** en empresas de retail/distribución, y desde hace 6 meses trabajo full-time como developer. Me especializo en pipelines ETL, dashboards de BI, integraciones de APIs y arquitectura limpia. Me gusta escribir código mantenible y resolver problemas reales del negocio.
+**ES** — Desarrollador Python con foco en **backend** y **data engineering**. Vengo de **3 años como analista de datos** en empresas de retail/distribución, y desde hace 1 año trabajo full-time como developer. Me especializo en pipelines ETL, dashboards de BI, integraciones de APIs y arquitectura limpia. Me gusta escribir código mantenible y resolver problemas reales del negocio.
 
 **EN** — Python Developer focused on **backend** and **data engineering**. I bring **3 years as a data analyst** in retail/distribution companies and have been a full-time developer for the last 6 months. I specialize in ETL pipelines, BI dashboards, API integrations and clean architecture. I write maintainable code that solves real business problems.
 
