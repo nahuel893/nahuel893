@@ -1,212 +1,165 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nahuel%20Aguirre%20Villafa%C3%B1e&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20Backend%20%26%20Data%20Engineering&descAlignY=60&descSize=18" alt="header" />
+# Nahuel Aguirre Villafañe
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-2ea043?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:nahuel893@hotmail.com)
-[![Location](https://img.shields.io/badge/Salta%2C_Argentina-1f1f1f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/nahuel893@hotmail.com-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nahuel893@hotmail.com)
+**Python Developer · Backend & Data Engineering**
 
-![Profile Views](https://komarev.com/ghpvc/?username=nahuel893&label=Profile%20views&color=2ea043&style=flat)
+Salta, Argentina · Open to remote and hybrid roles
+
+[![Email](https://img.shields.io/badge/nahuel893@hotmail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:nahuel893@hotmail.com)
+[![Open to work](https://img.shields.io/badge/Open_to_work-2ea043?style=flat-square)](mailto:nahuel893@hotmail.com)
+![Location](https://img.shields.io/badge/Salta,_AR-1f1f1f?style=flat-square)
 
 </div>
 
 ---
 
-## Sobre mí · About me
+## About
 
-**ES** — Desarrollador Python con foco en **backend** y **data engineering**. Vengo de **3 años como analista de datos** en empresas de retail/distribución, y desde hace 1 año trabajo full-time como developer. Me especializo en pipelines ETL, dashboards de BI, integraciones de APIs y arquitectura limpia. Me gusta escribir código mantenible y resolver problemas reales del negocio.
+I build backend systems and data infrastructure in Python. Three years as a data
+analyst in retail and distribution taught me what the business actually needs
+from a pipeline; since 2025 I've been building those systems full-time as a
+developer.
 
-**EN** — Python Developer focused on **backend** and **data engineering**. I bring **3 years as a data analyst** in retail/distribution companies and have been a full-time developer for the last 6 months. I specialize in ETL pipelines, BI dashboards, API integrations and clean architecture. I write maintainable code that solves real business problems.
+My work tends to look the same regardless of the domain: an ETL that has to run
+unattended at 4am, an API that another team depends on, a dimensional model that
+a dashboard sits on top of. I care about the boring parts — migrations that roll
+back, jobs that survive a restart, tests that fail for the right reason.
 
-> *Idiomas / Languages:* Spanish (native) · English (professional)
+*Spanish (native) · English (professional)*
 
----
+<details>
+<summary><b>🇪🇸 Leer en español</b></summary>
 
-## Tech Stack
+<br>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+Construyo sistemas backend e infraestructura de datos en Python. Tres años como
+analista de datos en retail y distribución me enseñaron qué necesita realmente
+el negocio de un pipeline; desde 2025 construyo esos sistemas full-time como
+developer.
 
-### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+Mi trabajo se parece bastante sin importar el dominio: un ETL que tiene que
+correr solo a las 4am, una API de la que depende otro equipo, un modelo
+dimensional sobre el que se apoya un dashboard. Me importan las partes
+aburridas — migraciones que revierten, jobs que sobreviven un reinicio, tests
+que fallan por la razón correcta.
 
-### Data Science & Visualization
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-026E00?style=for-the-badge&logo=apache&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### AI / Integrations
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+</details>
 
 ---
 
-## Featured Projects
+## Selected work
 
-<table>
-<tr>
-<td colspan="2" valign="top">
+### [agents-system](https://github.com/nahuel893/agents-system) · `MIT`
 
-### medallion-etl &nbsp;<sub>🔒 **Private — Production**</sub>
-<sub>**Production ETL · Medallion Architecture (Bronze → Silver → Gold)**</sub>
+Runtime platform for building and orchestrating AI agents. Agents are declared,
+not coded: a role, a tool manifest and a policy — three markdown files — are
+assembled by a harness into a permission-bound runtime. Generic roles live in the
+platform; per-client deployments inherit, restrict or extend them without
+touching core code. Ships an OpenAI-compatible endpoint so existing clients work
+unchanged.
 
-Pipeline ETL en **producción** para empresa de bebidas. Implementa **Medallion Architecture** completa extrayendo datos desde Chess ERP hacia un Data Warehouse PostgreSQL: capa **Bronze** (raw), **Silver** (limpio y normalizado) y **Gold** (modelo dimensional star schema para BI). Orchestrator unificado, carga diaria automatizada vía cron, **9+ loaders especializados** (sales, stock, clientes, staff, depósitos, etc.), migraciones con **dbmate**, configuración con **Pydantic Settings** y logging estructurado. Alimenta a `sales-dashboard` y `sellers-mobile-dash`.
+`Python 3.12` · `FastAPI` · `LangGraph` · `PostgreSQL + pgvector` · `Redis` · `Alembic`
 
-Production-grade ETL pipeline for a beverage distribution company. Full **Medallion Architecture** ingesting Chess ERP into a PostgreSQL Data Warehouse, with dimensional star schema, scheduled daily loads, dbmate migrations and 9+ domain-specific loaders. Closed-source by design.
+### whatsapp-service 🔒 <sub>private</sub>
 
-`Python` `SQLAlchemy` `Pydantic` `PostgreSQL` `Pandas` `dbmate` `cron`
+HTTP API that wraps Baileys so any application can send a WhatsApp message
+without owning the Signal session. One process owns the session directory;
+everything else queues. Accepted messages survive a restart (SQLite-backed
+queue), every send returns a queryable job id, and delivery is paced to avoid
+being flagged as a bot. Explicitly at-least-once — documented as a deliberate
+trade-off, not an oversight.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Node 24` · `Baileys` · `Express` · `node:sqlite` · `node:test` — no database or test dependencies
 
-### [chesserp-py-sdk](https://github.com/nahuel893/chesserp-py-sdk)
-<sub>**Published on PyPI**</sub>
+### medallion-etl 🔒 <sub>private · production</sub>
 
-SDK de Python para la API de **ChessERP**. Arquitectura `BaseClient + 9 domain services` con modelos **Pydantic v2**, doble cliente (REST oficial + portal web con Spring Security), paginación transparente y conversión automática de fechas.
+Production ETL for a beverage distribution company. Full Medallion architecture
+— Bronze (raw), Silver (normalized), Gold (star schema) — moving Chess ERP data
+into a PostgreSQL warehouse. Nine domain loaders, unified orchestrator, daily
+scheduled loads, dbmate migrations. Feeds the dashboards below.
 
-`Python` `Pydantic v2` `Requests` `PyPI`
+`Python` · `SQLAlchemy` · `Pydantic Settings` · `PostgreSQL` · `dbmate` · `cron`
 
-</td>
-<td width="50%" valign="top">
+### [chesserp-py-sdk](https://github.com/nahuel893/chesserp-py-sdk) · <sub>on PyPI</sub>
+
+Python SDK for the ChessERP API. A base client plus nine domain services, typed
+end to end with Pydantic v2. Talks to both the official REST API and the web
+portal behind Spring Security, with transparent pagination and date coercion.
+
+`Python` · `Pydantic v2` · `Requests` · `PyPI`
 
 ### [claude-dock](https://github.com/nahuel893/claude-dock)
-<sub>**Multi-agent AI session monitor**</sub>
 
-Widget flotante always-on-top que monitorea sesiones de **Claude Code, Gemini CLI, OpenCode y Codex CLI** en tiempo real. Glass tiles con estado, badges de aprobación inline (`PreToolUse` hooks) y stream de mensajes.
+Always-on-top desktop widget that watches Claude Code, Gemini CLI, OpenCode and
+Codex sessions in real time. Live status per session, inline approval badges
+driven by `PreToolUse` hooks, and a message stream.
 
-`Electron` `React` `TypeScript` `Python` `Liquid Glass UI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [sellers-mobile-dash](https://github.com/nahuel893/sellers-mobile-dash)
-<sub>**Mobile-first sales BI**</sub>
-
-Dashboard mobile-first para preventistas de empresa de bebidas. Implementación dual: **legacy Dash** + **nueva en FastAPI + React 19 + TS + Tailwind**. SVG gauges custom (1KB c/u), Leaflet en lugar de Plotly Mapbox.
-
-`FastAPI` `React 19` `TypeScript` `Tailwind` `Leaflet` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
+`Electron` · `React` · `TypeScript` · `Python`
 
 ### [bank-reconciliation-arg](https://github.com/nahuel893/bank-reconciliation-arg)
-<sub>**AI-powered ETL**</sub>
 
-ETL automatizado para conciliación bancaria. Procesa **comprobantes de transferencias bancarias por WhatsApp** con **Google Gemini 2.5 Flash** para OCR estructurado. Reduce 2-3 minutos por comprobante a segundos.
+Bank reconciliation ETL that reads transfer receipts sent over WhatsApp. Gemini
+2.5 Flash does structured OCR on the image, the pipeline matches it against
+ledger entries. Turns two to three minutes of manual entry per receipt into
+seconds.
 
-`Python` `Flask` `PostgreSQL` `Google Gemini` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [sales-dashboard](https://github.com/nahuel893/sales-dashboard)
-<sub>**Geographic BI Dashboard**</sub>
-
-Dashboard de ventas con **mapas interactivos** (burbujas, calor, compro/no compro), animaciones temporales, **auth + RBAC** (admin/gerente/supervisor), filtros en cascada y export a Excel multi-hoja. Conectado a Medallion ETL en PostgreSQL.
-
-`Dash` `Plotly` `Mapbox` `PostgreSQL` `Redis` `OpenPyXL`
-
-</td>
-<td width="50%" valign="top">
-
-### [sales-forecast-ds](https://github.com/nahuel893/sales-forecast-ds)
-<sub>**Time-series forecasting**</sub>
-
-Proyecto de forecasting de ventas con múltiples modelos: **SARIMA, Prophet, LightGBM con feature engineering** (lag features, rolling stats). Experimentos trackeados con **MLflow** y dashboard de resultados en Plotly Dash.
-
-`Python` `MLflow` `Statsmodels` `Prophet` `LightGBM` `Pandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [fsaudit](https://github.com/nahuel893/fsaudit)
-<sub>**Filesystem audit tool**</sub>
-
-Herramienta CLI que **escanea, clasifica y analiza** árboles de directorios y genera reportes Excel multi-hoja con KPIs. Trabaja **solo con metadata** (nunca lee contenidos), read-only por diseño, **cross-platform** (Linux + Windows). Detecta archivos huérfanos, duplicados, inactivos.
-
-`Python 3.10+` `OpenPyXL` `Pandas` `pytest` `pip-installable`
-
-</td>
-<td width="50%" valign="top">
-
-### [excel-reporter](https://github.com/nahuel893/excel-reporter)
-<sub>**Modular Excel report engine**</sub>
-
-Sistema modular para **generación automatizada de reportes Excel** desde Data Warehouse PostgreSQL. Arquitectura limpia con **Repository Pattern**, capa de servicios desacoplada y testing con **mocks de DB**. Diseñado para soportar múltiples reportes con mínimo código nuevo.
-
-`Python 3.12+` `SQLAlchemy` `Pandas` `OpenPyXL` `pytest`
-
-</td>
-</tr>
-</table>
-
-### Honorable mentions
-
-- **[steam-skins-scraper](https://github.com/nahuel893/steam-skins-scraper)** — Production-grade scraper con Circuit Breaker, Rate Limiting (sliding window) y Connection Pooling.
-- **[dotfiles](https://github.com/nahuel893/dotfiles)** — Setup de Hyprland + Matugen dynamic theming + AstroNvim.
+`Python` · `Flask` · `PostgreSQL` · `Google Gemini` · `Node.js`
 
 ---
 
-## GitHub Stats
+### More
 
-<div align="center">
+| Project | What it does |
+|---|---|
+| [excel-reporter](https://github.com/nahuel893/excel-reporter) | Modular Excel report engine over a PostgreSQL warehouse. Repository pattern, decoupled services, DB-mocked tests. |
+| [fsaudit](https://github.com/nahuel893/fsaudit) | CLI that audits directory trees and reports orphans, duplicates and dead files. Metadata only — never reads contents. Read-only by design, cross-platform. |
+| [sales-dashboard](https://github.com/nahuel893/sales-dashboard) | Geographic sales BI — interactive maps, temporal animation, auth with role-based access, multi-sheet Excel export. |
+| [sales-forecast-ds](https://github.com/nahuel893/sales-forecast-ds) | Sales forecasting with SARIMA, Prophet and LightGBM. Lag and rolling features, experiments tracked in MLflow. |
+| [steam-skins-scraper](https://github.com/nahuel893/steam-skins-scraper) | Scraper built like a service: circuit breaker, sliding-window rate limiting, connection pooling. |
+| [dotfiles](https://github.com/nahuel893/dotfiles) | Hyprland, Matugen dynamic theming, AstroNvim. |
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahuel893&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&card_width=480" alt="stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel893&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="top langs" />
-</a>
+<details>
+<summary><b>🇪🇸 Descripción de los proyectos en español</b></summary>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=nahuel893&theme=tokyonight&hide_border=true" alt="streak" />
-</a>
+<br>
 
-</div>
+| Proyecto | Qué hace |
+|---|---|
+| **agents-system** | Plataforma runtime para construir y orquestar agentes de IA. Los agentes se declaran en tres archivos markdown (rol, manifiesto de tools, política) y un harness los ensambla en un runtime con permisos acotados. Los deployments por cliente heredan o restringen los roles genéricos sin tocar el core. |
+| **whatsapp-service** 🔒 | API HTTP que envuelve Baileys para que cualquier app mande un WhatsApp sin ser dueña de la sesión Signal. Cola en SQLite que sobrevive reinicios, `job_id` consultable, envíos espaciados para no ser marcado como bot. At-least-once explícito y documentado. |
+| **medallion-etl** 🔒 | ETL en producción para distribuidora de bebidas. Arquitectura Medallion completa (Bronze / Silver / Gold) desde Chess ERP hacia un data warehouse PostgreSQL. Nueve loaders de dominio, carga diaria automatizada, migraciones con dbmate. |
+| **chesserp-py-sdk** | SDK de Python para la API de ChessERP, publicado en PyPI. Cliente base más nueve servicios de dominio, tipado con Pydantic v2, doble transporte (REST oficial y portal web) con paginación transparente. |
+| **claude-dock** | Widget de escritorio always-on-top que monitorea sesiones de Claude Code, Gemini CLI, OpenCode y Codex en tiempo real, con badges de aprobación inline vía hooks `PreToolUse`. |
+| **bank-reconciliation-arg** | ETL de conciliación bancaria que lee comprobantes de transferencia recibidos por WhatsApp. Gemini 2.5 Flash hace OCR estructurado y el pipeline concilia contra los asientos. De dos o tres minutos por comprobante a segundos. |
+| **excel-reporter** | Motor modular de reportes Excel sobre un warehouse PostgreSQL. Repository pattern, capa de servicios desacoplada, tests con mocks de base. |
+| **fsaudit** | CLI que audita árboles de directorios y reporta huérfanos, duplicados e inactivos. Solo metadata — nunca lee contenidos. Read-only por diseño y cross-platform. |
+| **sales-dashboard** | BI geográfico de ventas: mapas interactivos, animación temporal, autenticación con roles y export a Excel multi-hoja. |
+| **sales-forecast-ds** | Forecasting de ventas con SARIMA, Prophet y LightGBM. Features de lag y rolling, experimentos trackeados en MLflow. |
+| **steam-skins-scraper** | Scraper construido como servicio: circuit breaker, rate limiting por ventana deslizante y connection pooling. |
+| **dotfiles** | Hyprland, theming dinámico con Matugen, AstroNvim. |
+
+</details>
 
 ---
 
-## Contact · Contacto
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Python · SQL · Bash · TypeScript · Lua |
+| **Backend** | FastAPI · Flask · SQLAlchemy · Pydantic · Alembic |
+| **Data** | PostgreSQL · pgvector · Redis · Pandas · NumPy · dbmate |
+| **ML & analytics** | scikit-learn · LightGBM · Prophet · MLflow · Plotly · Jupyter |
+| **AI** | LangGraph · Anthropic Claude · OpenAI · Google Gemini · Ollama |
+| **Infra & tooling** | Docker · Git · GitHub Actions · Linux · pytest · Neovim |
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nahuel893@hotmail.com-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nahuel893@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@nahuel893-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahuel893)
+**Currently open to remote and hybrid opportunities**
 
-**Currently open to remote / hybrid opportunities · Disponible para oportunidades remotas o híbridas**
+[nahuel893@hotmail.com](mailto:nahuel893@hotmail.com)
 
-</div>
-
-<div align="center">
-<sub>Thanks for stopping by — feel free to explore my repos and reach out for collaboration.</sub>
 </div>
