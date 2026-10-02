@@ -2,7 +2,7 @@
 
 # Nahuel Aguirre Villafañe
 
-**Python Developer · Backend & Data Engineering**
+**Python Developer · Backend, Data and IA**
 
 Salta, Argentina · Open to remote and hybrid roles
 
