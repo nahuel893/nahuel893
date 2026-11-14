@@ -89,6 +89,12 @@ portal behind Spring Security, with transparent pagination and date coercion.
 
 `Python` · `Pydantic v2` · `Requests` · `PyPI`
 
+### [economic-dashboard](https://github.com/nahuel893/economic-dashboard) · [`live`](https://www.argendatos.site)
+
+Public dashboard of Argentina's economy: every dollar quote, inflation, reserves, rates and markets, plus province maps and a supermarket price finder. No database and no keys: official sources are fetched at runtime or preprocessed by a daily GitHub Actions job that publishes the SEPA price dataset (~14M prices, 2,700+ branches) as static files read with HTTP Range requests.
+
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind 4` · `MapLibre` · `Vitest` · `GitHub Actions`
+
 ### [claude-dock](https://github.com/nahuel893/claude-dock)
 
 Always-on-top desktop widget that watches Claude Code, Gemini CLI, OpenCode and
@@ -132,6 +138,7 @@ seconds.
 | **chesserp-py-sdk** | SDK de Python para la API de ChessERP, publicado en PyPI. Cliente base más nueve servicios de dominio, tipado con Pydantic v2, doble transporte (REST oficial y portal web) con paginación transparente. |
 | **claude-dock** | Widget de escritorio always-on-top que monitorea sesiones de Claude Code, Gemini CLI, OpenCode y Codex en tiempo real, con badges de aprobación inline vía hooks `PreToolUse`. |
 | **bank-reconciliation-arg** | ETL de conciliación bancaria que lee comprobantes de transferencia recibidos por WhatsApp. Gemini 2.5 Flash hace OCR estructurado y el pipeline concilia contra los asientos. De dos o tres minutos por comprobante a segundos. |
+| **economic-dashboard** | Dashboard público de la economía argentina: cotizaciones del dólar, inflación, reservas, tasas y mercados, más mapas por provincia y un buscador de precios de supermercados. Sin base de datos ni keys: fuentes oficiales en runtime o preprocesadas por un job diario de GitHub Actions que publica el dataset SEPA como archivos estáticos. |
 | **excel-reporter** | Motor modular de reportes Excel sobre un warehouse PostgreSQL. Repository pattern, capa de servicios desacoplada, tests con mocks de base. |
 | **fsaudit** | CLI que audita árboles de directorios y reporta huérfanos, duplicados e inactivos. Solo metadata — nunca lee contenidos. Read-only por diseño y cross-platform. |
 | **sales-dashboard** | BI geográfico de ventas: mapas interactivos, animación temporal, autenticación con roles y export a Excel multi-hoja. |
